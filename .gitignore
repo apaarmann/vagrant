@@ -1,6 +1,6 @@
 ### Project ###
 www/*
-!www/default/
+!www/endonize/
 
 ### Vagrant ###
 .vagrant
