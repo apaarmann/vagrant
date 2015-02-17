@@ -169,5 +169,5 @@ vhosts:
   -
     ServerName: endonize.dev
     ServerAlias: www.endonize.dev *.endonize.dev
-    DocumentRoot: /var/www/endonize
+    DocumentRoot: /var/www/endonize/web
     ServerAdmin: ark@localhost
